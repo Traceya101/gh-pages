@@ -1,0 +1,63 @@
+.navigation-bar {
+overflow: auto;
+    margin: 40 90px;
+    padding; 10%
+vertical-align: top;
+    display: inline-flex;
+font-size: 15px;
+  justify-content:space-between;
+  justify-content: space-around;
+  text-align: center;
+  position: relative;
+  height: auto;
+    width: 80%;
+    text-align:center;
+clear: both;
+}
+div {
+  background-color: #e8e8e8;
+  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image:      -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
+  background-image:         linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+  background-repeat: repeat-x;
+  }
+
+a:hover {
+  background-color: #e6ccff;
+  padding: 5px
+  position:fixed;
+}
+a {
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+p {
+  position: static;
+  font-family: 'Oxygen', sans-serif;
+}
+page-header {
+  background-color: #e8e8e8;
+}
+/*!Logo position and size*/
+header {
+padding: 10px
+background-color:  #dca7a7;
+  align-self: stretch;
+  width: 20%;
+  margin: 0 1540px
+  position: static;
+  float: right;
+  overflow: auto;
+}
+
+img {
+  width: 5%;
+  height: auto;
+  display: inline-block;
+  top: auto;
+  padding: 0px;
+
+}
